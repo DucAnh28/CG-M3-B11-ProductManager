@@ -1,6 +1,6 @@
 package codegym.controller;
 
-import codegym.Product.Product;
+import codegym.model.Product;
 import codegym.service.ProductService;
 import codegym.service.ProductServiceInter;
 

@@ -1,4 +1,4 @@
-package codegym.Product;
+package codegym.model;
 
 public class Product {
     private int id;
